@@ -1,0 +1,136 @@
+.radius{
+    border-radius: 120px;
+}
+.font.bg-alt{
+    color:#e4048b;
+}
+.center{
+    text-align: center;
+}
+.button{
+    color:#e4048b;
+}
+.radio{
+    border-radius: 20px;
+}
+.pagination {
+display: inline-block;
+}
+
+.pagination a {
+color: black;
+float: left;
+padding: 8px 16px;
+text-decoration: none;
+transition: background-color .3s;
+border: 1px solid rgb(10, 10, 10);
+margin: 0 4px;
+}
+
+.pagination a.active {
+background-color: #e4046b;
+color: white;
+border: 1px solid #0a0a0a;
+}
+.flex{
+display: flex;
+}
+.but input{
+border: none;
+background-color: #e4046b;
+border-radius: 6px;
+color: white;
+padding: 15px 38px;
+transform:transition ;
+}
+.but input:hover{
+    background-color: transparent;
+    transition: 2s;
+}
+.bg{
+background-color: #e4048b;
+}
+body{
+    background-color: rgb(241, 238, 238);
+}
+a:link{
+    color: blue;
+  }
+  a:visited{
+    color:#e4046b;
+  }
+  a:hover{
+    color:rgb(58, 95, 95);
+  }
+  a:active{
+    color:red;
+  }
+.float{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    float: left;
+} 
+.freelancer{
+    color: rgb(149, 152, 153);
+}
+.size{
+    font-size: 18px;
+}
+.size1{
+    font-size: 20px;
+}
+.margin{
+    margin-left: 45px;
+}
+ .margin1{
+    margin-left: 13px;
+}
+ .margin2{
+    margin-left: 480px;
+ }
+ .margin3{
+    margin-left: 10px;
+ }
+ .but in{
+    border:none;
+    background-color: #e4046b;
+    border-radius: 10px;
+    color: white;
+    }
+.wood{
+    background-image:url(./images/Datagirl-mock-up1.png);
+    background-repeat: repeat-x;
+    background-position:fit; 
+    background-size: cover; 
+    width: 100%;
+    padding: 13%;
+}
+.container-fluid img{
+    width: 100%;
+}
+.container img{
+    width: 100%;
+}
+
+.container-md img{
+    width: 10%;
+}
+.navbar{
+    width: 100%;
+}
+
+.bg-pink{
+    background-color:#e4046b;
+ color: white;
+ border-radius: 20px;
+ border: transparent;
+ padding:0px 45px ;
+ transform: transition;
+ }
+ .bg-pink:hover{
+    background-color: transparent;
+    transition: .2s;
+ }
+ span{
+    color: #e4046b;
+ }
